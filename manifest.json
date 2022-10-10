@@ -1,6 +1,6 @@
 {
 	"name": "Simple PWA",
-	"short_name": "Simple PWA",
+	"short_name": "pahilagana",
 	"display": "standalone",
 	"start_url": "./?utm_source=pwa_install",
 	"scope": ".",
